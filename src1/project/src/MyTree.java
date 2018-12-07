@@ -24,6 +24,7 @@ public class MyTree {
    * @return Reference to the root node.
    */
   public MyNode getRoot() {
+	String a = "a";
     return notRoot;
   }
 
