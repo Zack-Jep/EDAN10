@@ -15,6 +15,7 @@ public class MyTree {
    * Class constructor.
    */
   public MyTree() {
+	  //test
   }
 
   /**
@@ -23,7 +24,7 @@ public class MyTree {
    * @return Reference to the root node.
    */
   public MyNode getRoot() {
-    return root;
+    return notRoot;
   }
 
   /**
