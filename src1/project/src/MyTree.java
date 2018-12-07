@@ -25,7 +25,6 @@ public class MyTree {
    */
   public MyNode getRoot() {
 
-int k =2;
 String a = "a";
 //test
     return notRoot;
