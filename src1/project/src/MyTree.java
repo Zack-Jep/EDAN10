@@ -24,7 +24,10 @@ public class MyTree {
    * @return Reference to the root node.
    */
   public MyNode getRoot() {
+
 int k =2;
+String a = "a";
+
     return notRoot;
   }
 
